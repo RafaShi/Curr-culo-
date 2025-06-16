@@ -52,7 +52,7 @@ Habilidades adquiridas: Participação na comissão organizadora do evento, dese
 Habilidades adquiridas: Resolução de problemas computacionais em equipe, raciocínio lógico, pensamento crítico e gestão de tempo sob pressão. Participação ativa na competição promovendo o aprimoramento técnico e colaborativo.<br><br>
 
 ## Experiências anteriores
-**Operadora de Caixa** – Comercial Esperança 022 – (Nov/2024 - jul/2025)
+**Operadora de Caixa** – Comercial Esperança 022 – (Nov/2024 - jul/2025)<br>
 Atendimento direto ao cliente, operação de caixa, manuseio de valores e organização do ambiente de trabalho. Desenvolvimento de habilidades em agilidade, responsabilidade, comunicação e resolução de situações do dia a dia no varejo.
 
 
