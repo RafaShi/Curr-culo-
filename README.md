@@ -1,6 +1,6 @@
-# Curriculo
+# Currículo
 
-# RAFAELA YUMI SHIMODA
+## RAFAELA YUMI SHIMODA
 
 **Telefone:** (+55) 15 99178-6914<br>
 **E-mail:** rafayumishimoda@gmail.com<br>
@@ -11,10 +11,7 @@
 
 ## Objetivo Profissional
 
-Busco uma oportunidade de trabalho em um ambiente dinâmico, onde
-possa contribuir com minha organização e habilidades de atendimento ao cliente,
-oferecendo suporte à equipe e mantendo um alto padrão de qualidade no
-atendimento e nas operações.
+Busco uma oportunidade na área de Tecnologia da Informação, onde eu possa aplicar e desenvolver meus conhecimentos técnicos, contribuindo com minhas habilidades em lógica de programação, resolução de problemas e trabalho em equipe. Tenho interesse em atuar em ambientes dinâmicos, colaborando para o crescimento da equipe e aprimorando continuamente minhas competências na área.
 
 ## Formação Acadêmica
 
