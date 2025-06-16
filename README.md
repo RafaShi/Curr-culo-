@@ -18,12 +18,12 @@ atendimento e nas operações.
 
 **Formação Acadêmica**
 
-<p> Tecnóloga em Análise e Desenvolvimento de Sistemas<\p>
-Fatec Sorocaba - Cursando (2024 - 2026)
- Ensino Médio Completo
-Sesi 023 - Votorantim (2021 - 2023)
- Técnica em Desenvolvimento de Sistemas
-Etec Fernando Prestes/Sorocaba - Ead (2022 – 2023)
+ Tecnóloga em Análise e Desenvolvimento de Sistemas<br>
+Fatec Sorocaba - Cursando (2024 - 2026)<br>
+ Ensino Médio Completo<br>
+Sesi 023 - Votorantim (2021 - 2023)<br>
+ Técnica em Desenvolvimento de Sistemas<br>
+Etec Fernando Prestes/Sorocaba - Ead (2022 – 2023)<br>
 
 **Habilidades**
 
