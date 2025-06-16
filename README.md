@@ -35,6 +35,7 @@ Etec Fernando Prestes/Sorocaba - Ead (2022 – 2023)<br><br>
 - Proatividade<br>
 - Pacote Office Básico<br>
 - Inglês Básico (A2) - Em curso para aprimoramento.<br>
+- Python Intermediário<br>
 
 ## Cursos e Experiências Relevantes
 
@@ -47,5 +48,8 @@ Habilidades adquiridas: Participação em ações de responsabilidade social, de
 - Projeto Ismart Online - 2021 a 2024<br>
 Habilidades adquiridas: Desenvolvimento de habilidades em resolução de problemas e adaptação a novos desafios.<br><br>
 
-- Curso de Python Intermediário - Jnh. 2025<br>
-Huawei <br><br>
+- Semana da Tecnologia na Fatec (SETEC)<br>
+Habilidades adquiridas: Participação na comissão organizadora do evento, desenvolvimento de habilidades em organização, comunicação e trabalho em equipe. Participação em minicursos e palestras, ampliando conhecimentos técnicos e networking com profissionais da área.<br><br>
+
+- Maratona de Programação InterFatecs – 2025<br>
+Habilidades adquiridas: Resolução de problemas computacionais em equipe, raciocínio lógico, pensamento crítico e gestão de tempo sob pressão. Participação ativa na competição promovendo o aprimoramento técnico e colaborativo.<br><br>
