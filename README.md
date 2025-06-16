@@ -9,14 +9,14 @@
 
 <br>
 
-# Objetivo Profissional
+## Objetivo Profissional
 
 Busco uma oportunidade de trabalho em um ambiente dinâmico, onde
 possa contribuir com minha organização e habilidades de atendimento ao cliente,
 oferecendo suporte à equipe e mantendo um alto padrão de qualidade no
 atendimento e nas operações.
 
-**Formação Acadêmica**
+## Formação Acadêmica
 
 - Tecnóloga em Análise e Desenvolvimento de Sistemas<br>
 Fatec Sorocaba - Cursando (2024 - 2026)<br><br>
@@ -25,7 +25,7 @@ Sesi 023 - Votorantim (2021 - 2023)<br><br>
 - Técnica em Desenvolvimento de Sistemas<br>
 Etec Fernando Prestes/Sorocaba - Ead (2022 – 2023)<br><br>
 
-**Habilidades**
+## Habilidades
 
 - Organização e agilidade<br>
 - Atendimento ao cliente<br>
@@ -36,7 +36,7 @@ Etec Fernando Prestes/Sorocaba - Ead (2022 – 2023)<br><br>
 - Pacote Office Básico<br>
 - Inglês Básico (A2) - Em curso para aprimoramento.<br>
 
-**Cursos e Experiências Relevantes**
+## Cursos e Experiências Relevantes
 
 - Curso de Atendimento ao Cliente Sebrae - 2024<br>
 Habilidades adquiridas: Técnicas de atendimento, empatia e comunicação eficiente com clientes.<br><br>
