@@ -2,10 +2,10 @@
 
 # RAFAELA YUMI SHIMODA
 
-**Telefone:** (+55) 15 99178-6914
-**E-mail:** rafayumishimoda@gmail.com
-**Endereço:** Jardim Toledo, Votorantim, SP
-**LinkedIn:** www.linkedin.com/in/rafaela-yumi-shimoda
+**Telefone:** (+55) 15 99178-6914<br>
+**E-mail:** rafayumishimoda@gmail.com<br>
+**Endereço:** Jardim Toledo, Votorantim, SP<br>
+**LinkedIn:** www.linkedin.com/in/rafaela-yumi-shimoda<br>
 
 <br>
 
@@ -27,24 +27,25 @@ Etec Fernando Prestes/Sorocaba - Ead (2022 – 2023)<br><br>
 
 **Habilidades**
 
- Organização e agilidade
- Atendimento ao cliente
- Trabalho em equipe
- Flexibilidade
- Pensamento crítico
- Proatividade
- Pacote Office Básico
- Inglês Básico (A2) - Em curso para aprimoramento.
-Cursos e Experiências Relevantes
- Curso de Atendimento ao Cliente Sebrae - 2024
-Habilidades adquiridas: Técnicas de atendimento, empatia e comunicação
-eficiente com clientes.
- Projeto Soamar - 2023
-Habilidades adquiridas: Participação em ações de responsabilidade social,
-desenvolvendo habilidades de trabalho em equipe e interação com a
-comunidade.
- Projeto Ismart Online - 2021 a 2024
-Habilidades adquiridas: Desenvolvimento de habilidades em resolução de
-problemas e adaptação a novos desafios.
- Curso de Python Intermediário - Jnh. 2025
-Huawei 
+- Organização e agilidade<br>
+- Atendimento ao cliente<br>
+- Trabalho em equipe<br>
+- Flexibilidade<br>
+- Pensamento crítico<br>
+- Proatividade<br>
+- Pacote Office Básico<br>
+- Inglês Básico (A2) - Em curso para aprimoramento.<br>
+
+**Cursos e Experiências Relevantes**
+
+- Curso de Atendimento ao Cliente Sebrae - 2024<br>
+Habilidades adquiridas: Técnicas de atendimento, empatia e comunicação eficiente com clientes.<br><br>
+
+- Projeto Soamar - 2023<br>
+Habilidades adquiridas: Participação em ações de responsabilidade social, desenvolvendo habilidades de trabalho em equipe e interação com a comunidade.<br><br>
+
+- Projeto Ismart Online - 2021 a 2024<br>
+Habilidades adquiridas: Desenvolvimento de habilidades em resolução de problemas e adaptação a novos desafios.<br><br>
+
+- Curso de Python Intermediário - Jnh. 2025<br>
+Huawei <br><br>
