@@ -1,22 +1,22 @@
 # Curriculo
 
-#RAFAELA YUMI SHIMODA
+# RAFAELA YUMI SHIMODA
 
-*Telefone:* (+55) 15 99178-6914
-*E-mail:* rafayumishimoda@gmail.com
-*Endereço:* Jardim Toledo, Votorantim, SP
-*LinkedIn:* www.linkedin.com/in/rafaela-yumi-shimoda
+**Telefone:** (+55) 15 99178-6914
+**E-mail:** rafayumishimoda@gmail.com
+**Endereço:** Jardim Toledo, Votorantim, SP
+**LinkedIn:** www.linkedin.com/in/rafaela-yumi-shimoda
 
 <br>
 
-#Objetivo Profissional
+# Objetivo Profissional
 
 Busco uma oportunidade de trabalho em um ambiente dinâmico, onde
 possa contribuir com minha organização e habilidades de atendimento ao cliente,
 oferecendo suporte à equipe e mantendo um alto padrão de qualidade no
 atendimento e nas operações.
 
-*Formação Acadêmica*
+**Formação Acadêmica**
 
  Tecnóloga em Análise e Desenvolvimento de Sistemas
 Fatec Sorocaba - Cursando (2024 - 2026)
@@ -25,7 +25,7 @@ Sesi 023 - Votorantim (2021 - 2023)
  Técnica em Desenvolvimento de Sistemas
 Etec Fernando Prestes/Sorocaba - Ead (2022 – 2023)
 
-*Habilidades*
+**Habilidades**
 
  Organização e agilidade
  Atendimento ao cliente
