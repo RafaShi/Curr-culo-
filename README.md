@@ -32,7 +32,8 @@ Etec Fernando Prestes/Sorocaba - Ead (2022 – 2023)<br><br>
 - Proatividade<br>
 - Pacote Office Básico<br>
 - Inglês Básico (A2) - Em curso para aprimoramento.<br>
-- Python Intermediário<br>
+- conhecimento nas linguagnede de programação:
+- - Python, C, Java<br>
 
 ## Cursos e Experiências Relevantes
 
