@@ -40,13 +40,13 @@ Etec Fernando Prestes/Sorocaba - Ead (2022 – 2023)<br><br>
 ## Cursos e Experiências Relevantes
 
 - Curso de Atendimento ao Cliente Sebrae - 2024<br>
-Habilidades adquiridas: Técnicas de atendimento, empatia e comunicação eficiente com clientes.<br><br>
+Habilidades adquiridas: Desenvolvimento de técnicas avançadas de atendimento ao cliente, com foco em empatia, escuta ativa e comunicação assertiva. Capacitação para lidar com diferentes perfis de clientes, resolução de conflitos e promoção da satisfação e fidelização, garantindo uma experiência positiva e eficiente.<br><br>
 
 - Projeto Soamar - 2023<br>
-Habilidades adquiridas: Participação em ações de responsabilidade social, desenvolvendo habilidades de trabalho em equipe e interação com a comunidade.<br><br>
+Habilidades adquiridas: Atuação em projetos de responsabilidade social voltados à integração comunitária e ao impacto social positivo. Experiência significativa em trabalho colaborativo, planejamento e execução de ações comunitárias, além do fortalecimento da comunicação interpessoal e sensibilidade social.<br><br>
 
 - Projeto Ismart Online - 2021 a 2024<br>
-Habilidades adquiridas: Desenvolvimento de habilidades em resolução de problemas e adaptação a novos desafios.<br><br>
+Habilidades adquiridas: Participação contínua no desenvolvimento de competências em resolução criativa de problemas e adaptação ágil a ambientes dinâmicos. Responsável por enfrentar desafios complexos, aplicar pensamento crítico e colaborar em equipe para alcançar resultados inovadores em projetos online.<br><br>
 
 - Semana da Tecnologia na Fatec 2024 (SETEC)<br>
 Habilidades adquiridas: Participação na comissão organizadora do evento, desenvolvimento de habilidades em organização, comunicação e trabalho em equipe. Participação em minicursos e palestras, ampliando conhecimentos técnicos e networking com profissionais da área.<br><br>
