@@ -16,7 +16,7 @@ Busco uma oportunidade na área de Tecnologia da Informação, onde eu possa apl
 ## Formação Acadêmica
 
 - Tecnóloga em Análise e Desenvolvimento de Sistemas<br>
-Fatec Sorocaba - Cursando (2024 - 2026)<br><br>
+Fatec Sorocaba - Cursando 4º semestre (2024 - 2026)<br><br>
 - Ensino Médio Completo<br>
 Sesi 023 - Votorantim (2021 - 2023)<br><br>
 - Técnica em Desenvolvimento de Sistemas<br>
