@@ -39,6 +39,12 @@ Etec Fernando Prestes/Sorocaba - Ead (2022 – 2023)<br><br>
 
 ## Cursos e Experiências Relevantes
 
+- Semana da Tecnologia na Fatec 2024 (SETEC)<br>
+Habilidades adquiridas: Participação na comissão organizadora do evento, desenvolvimento de habilidades em organização, comunicação e trabalho em equipe. Participação em minicursos e palestras, ampliando conhecimentos técnicos e networking com profissionais da área.<br><br>
+
+- Maratona de Programação InterFatecs – 2025<br>
+Habilidades adquiridas: Resolução de problemas computacionais em equipe, raciocínio lógico, pensamento crítico e gestão de tempo sob pressão. Participação ativa na competição promovendo o aprimoramento técnico e colaborativo.<br><br>
+
 - Curso de Atendimento ao Cliente Sebrae - 2024<br>
 Habilidades adquiridas: Desenvolvimento de técnicas avançadas de atendimento ao cliente, com foco em empatia, escuta ativa e comunicação assertiva. Capacitação para lidar com diferentes perfis de clientes, resolução de conflitos e promoção da satisfação e fidelização, garantindo uma experiência positiva e eficiente.<br><br>
 
@@ -47,12 +53,6 @@ Habilidades adquiridas: Atuação em projetos de responsabilidade social voltado
 
 - Projeto Ismart Online - 2021 a 2024<br>
 Habilidades adquiridas: Participação contínua no desenvolvimento de competências em resolução criativa de problemas e adaptação ágil a ambientes dinâmicos. Responsável por enfrentar desafios complexos, aplicar pensamento crítico e colaborar em equipe para alcançar resultados inovadores em projetos online.<br><br>
-
-- Semana da Tecnologia na Fatec 2024 (SETEC)<br>
-Habilidades adquiridas: Participação na comissão organizadora do evento, desenvolvimento de habilidades em organização, comunicação e trabalho em equipe. Participação em minicursos e palestras, ampliando conhecimentos técnicos e networking com profissionais da área.<br><br>
-
-- Maratona de Programação InterFatecs – 2025<br>
-Habilidades adquiridas: Resolução de problemas computacionais em equipe, raciocínio lógico, pensamento crítico e gestão de tempo sob pressão. Participação ativa na competição promovendo o aprimoramento técnico e colaborativo.<br><br>
 
 ## Experiências anteriores
 **Operadora de Caixa** – Comercial Esperança 022 – (Nov/2024 - jul/2025)<br>
