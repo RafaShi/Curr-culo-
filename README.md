@@ -48,7 +48,7 @@ Habilidades adquiridas: Participação em ações de responsabilidade social, de
 - Projeto Ismart Online - 2021 a 2024<br>
 Habilidades adquiridas: Desenvolvimento de habilidades em resolução de problemas e adaptação a novos desafios.<br><br>
 
-- Semana da Tecnologia na Fatec (SETEC)<br>
+- Semana da Tecnologia na Fatec 2024 (SETEC)<br>
 Habilidades adquiridas: Participação na comissão organizadora do evento, desenvolvimento de habilidades em organização, comunicação e trabalho em equipe. Participação em minicursos e palestras, ampliando conhecimentos técnicos e networking com profissionais da área.<br><br>
 
 - Maratona de Programação InterFatecs – 2025<br>
