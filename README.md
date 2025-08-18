@@ -53,6 +53,6 @@ Habilidades adquiridas: Resolução de problemas computacionais em equipe, racio
 
 ## Experiências anteriores
 **Operadora de Caixa** – Comercial Esperança 022 – (Nov/2024 - jul/2025)<br>
-Atendimento direto ao cliente, operação de caixa, manuseio de valores e organização do ambiente de trabalho. Desenvolvimento de habilidades em agilidade, responsabilidade, comunicação e resolução de situações do dia a dia no varejo.
+Atendimento direto ao cliente, operação de caixa, manuseio de valores e organização do ambiente de trabalho. Desenvolvimento de habilidades em agilidade, responsabilidade, comunicação e resolução de situações do dia a dia no varejo. Durante o período, também atuei na tesouraria cobrindo as férias da profissional responsável, realizando atividades como conferência de valores, fechamento de caixas, organização de malotes e apoio na conciliação financeira.
 
 
